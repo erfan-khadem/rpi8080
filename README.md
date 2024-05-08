@@ -16,3 +16,11 @@ reset your board. By default, the CPU will run at `1us` per `T-state` but you ca
 
 After this, open a serial monitor (like `screen` or `putty`) and write anything to start the CPU. If you write `help` it will
 show the supported debug commands.
+
+# Pictures
+
+![image](https://github.com/er888kh/rpi8080/assets/45465346/69337e3b-3ce3-4089-8b50-65a02b3a323a)
+
+![image](https://github.com/er888kh/rpi8080/assets/45465346/e03c2e8d-6102-4265-b818-b70153bfe1ad)
+
+![image](https://github.com/er888kh/rpi8080/assets/45465346/1d9fe030-3ed5-4f89-bfe1-b7c1d926885c)
