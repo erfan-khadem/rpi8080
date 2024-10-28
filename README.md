@@ -1,8 +1,6 @@
 # rpi8080
 An rp2040 based intel 8080 emulator with debugger, physical &amp; virtual IN/OUT port and interrupt.
 
-### Note: The project code is fairly complete and usable, but the documentation is not ready yet.
-
 In this project, 8080's emulation core is based on [superzazu 8080](https://github.com/superzazu/8080)'s work.
 
 In order to use the project, first build it using `pico-sdk` and `cmake` and flash it onto your favorite
